@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://telefuturo.com.py/wp-content/themes/telefuturo/img/logo-telefuturo.png" group-title="Paraguay" ,Telefuturo
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_py_med/chunklist_w2078633150.m3u8?k=fba51e1b43490bc07809b77ab0f25944ea8982ffb3b28900f38a04d09b644794&exp=1617653496
+
+#EXTINF:-1 tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/img/logo.png" group-title="Paraguay" ,SNT Cerro Corá
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzMwMTc3LCJzZXNzaW9uIjoiNDUuMTc3LjE2LjE1Iiwid2hpdGVsaXN0IjpbIjQ1LjE3Ny4xNi4xNSJdfSwic2lnbmF0dXJlIjoiMjdlNzY3MTEyZDM5ZmRhYTRhNmNmY2Y5YjI1ZDU2MzI1NzZiNjIyZSJ9
+
+#EXTINF:-1 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele.png" group-title="Paraguay" ,La Tele
+https://rds3.desdeparaguay.net/latele/latele_py_med/chunklist_w1224629084.m3u8?k=ca7c18350ac39f868116d8544e23b22413e0c5612ab553c8e942848292043d9e&exp=1617644445
+
+#EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/TRECE_40.png" group-title="Paraguay" ,El Trece
+https://stream.rpc.com.py/live/trece_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="Paraguay" ,NPY
+https://rds3.desdeparaguay.net/npy/npy_py_med/chunklist_w578852573.m3u8?k=cb6575a54f9bfea7093d1001c6f481be9fb5d0c71765a639122e0f3841d12cb5&exp=1617644783
+
+#EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/logo-abc-tv.svg?d=688" group-title="Paraguay" ,ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngWk1rTXv134fseuL9ST6PAmiHQ8b_d15lN74Kf8Q=s88-c-k-c0x00ffffff-no-rj" group-title="Paraguay" ,Paraguay TV
+https://live-ak.vimeocdn.com/exp=1617645600~acl=%2Ffa774ab7-d615-447a-b173-04b0d1d909f2%2F%2A~hmac=914078a810415f4b719fa51bfe33c06d0f9c29aef0738fccdc6ec00a63196240/fa774ab7-d615-447a-b173-04b0d1d909f2/chunklist_b728000.m3u8?max_segments=10
+
+#EXTINF:-1 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png" group-title="Paraguay" ,C9N
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/chunklist_b446000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzMxNzM0LCJzZXNzaW9uIjoiNDUuMTc3LjE2LjE1Iiwid2hpdGVsaXN0IjpbIjQ1LjE3Ny4xNi4xNSJdfSwic2lnbmF0dXJlIjoiZDYyZWQ1ZTMwYjE0NmJlMDlkNGFlYzgyOGFiNzg1ZjdhMmE2M2E3MSJ9
+
+#EXTINF:-1 tvg-logo="https://www.paravision.com.py/img/paravision-logo.jpg" group-title="Paraguay" ,Paravision
+https://edge9-sl.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="Paraguay" ,Unicanal
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-1 tvg-logo="https://estacion40.com.py/wp-content/uploads/2019/09/logo-e40_opt.png" group-title="Paraguay" ,E40 TV
+https://rds3.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?k=12ceae2b128613d462ca1b1656a6342a94a379ee7a9c8f6463259c312b605a53&exp=1617646927
+
+#EXTINF:-1 tvg-logo="http://www.farra.com.py/img/news/farra1510078907.jpg" group-title="Paraguay" ,Farra Play
+http://159.203.148.226/live/farra_low.m3u8
